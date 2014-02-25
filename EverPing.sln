@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverPingConsole", "EverPingConsole\EverPingConsole.csproj", "{33C004AE-348F-4765-8F80-35BA74222303}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverPing", "EverPing\EverPing.csproj", "{4A343962-ADB8-44A0-BB78-8AEDB80D641A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33C004AE-348F-4765-8F80-35BA74222303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C004AE-348F-4765-8F80-35BA74222303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C004AE-348F-4765-8F80-35BA74222303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C004AE-348F-4765-8F80-35BA74222303}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A343962-ADB8-44A0-BB78-8AEDB80D641A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A343962-ADB8-44A0-BB78-8AEDB80D641A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A343962-ADB8-44A0-BB78-8AEDB80D641A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A343962-ADB8-44A0-BB78-8AEDB80D641A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
