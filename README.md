@@ -1,9 +1,8 @@
-ever-ping
-=========
+# ever-ping
 
 Repeatedly hits a given URL at a set interval.
 
-###Usage
+## Usage
 
 Use it like this:
 
